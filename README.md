@@ -17,8 +17,7 @@
 <br>
 
 - A passionate Self taught Python Developer
-- Currently Freelancing
-- I’m currently open for an Intern or a new job opportunity, this is my [LinkedIn]("https://www.linkedin.com/in/michael-hobden-5792b1290")
+- Machine Learning Intern
 
 <br><br>
 
