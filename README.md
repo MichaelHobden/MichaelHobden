@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on projects in **Snake Scanner ML** and **Financial Modelling ML**
 
+- 💾 I'm currently building scripts for [Nix Tech](https://nix.tech/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/MichaelHobden?tab=repositories](https://github.com/MichaelHobden?tab=repositories)
 
 - 📫 How to reach me **michael.hobden03@gmail.com**
