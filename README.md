@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Hobden</h1>
 <h3 align="center">A passionate python developer from England</h3>
 
-- 🔭 I’m currently working on projects in **Snake Scanner ML** and **Financial Modelling ML**
+- 🔭 I’m currently working on projects in **Snake Scanner ML**, **Financial Modelling ML** and an **AES-256 Encryptor**
 
 - 💾 I'm currently building scripts for [Nix Tech](https://nix.tech/)
 
