@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Hobden</h1>
 <h3 align="center">A passionate python developer from England</h3>
 
-- 🔭 I’m currently working on projects in **Snake Scanner ML**, **Financial Modelling ML** and an **AES-256 Encryptor**
+- 🔭 I’m currently working on passion projects in **Optimising Mandelbrot Set Image Generation and Calculating Ideal Iterations Live** and an **AES-256 Encryption Tool from Scratch**
 
-- 💾 I'm currently building scripts for [Nix Tech](https://nix.tech/)
+- 💾 I'm currently working at Sagacity Solutions as a Junior Data Engineer
 
 - 👨‍💻 All of my projects are available at [https://github.com/MichaelHobden?tab=repositories](https://github.com/MichaelHobden?tab=repositories)
 
